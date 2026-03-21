@@ -2,7 +2,7 @@
 
 # Olisemeka Nmarkwe
 
-**CS Student · AI & Machine Learning · Hammond, Louisiana**
+**AI/ML Engineer · Edge AI & Machine Learning · Hammond, Louisiana**
 
 [![Portfolio](https://img.shields.io/badge/olisemeka.dev-000000?style=flat-square&logo=safari&logoColor=white)](https://olisemeka.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olisemekanmarkwe-ds/)
@@ -13,7 +13,7 @@
 
 ---
 
-I'm a Computer Science student focused on applied AI and machine learning. I work as a student engineer in Hammond, Louisiana — hands-on with robots, drones, VR systems, Nvidia Jetsons, and edge AI deployments. I also create educational content to make computer hardware and coding more accessible.
+I'm an AI/ML Engineer who builds and deploys intelligent systems — from fine-tuned language models to real-time edge AI. I work at the intersection of research and production: training models, shipping APIs, and running AI on real hardware. Currently engineering with robots, drones, VR systems, and Nvidia Jetsons in Hammond, Louisiana. I also create educational content to make machine learning and computer hardware more accessible.
 
 ---
 
@@ -64,9 +64,13 @@ I'm a Computer Science student focused on applied AI and machine learning. I wor
 
 <div align="center">
 
-![Olisemeka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=OliseNS&show_icons=true&theme=default&hide_border=true&count_private=true)
+![Olisemeka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=OliseNS&show_icons=true&theme=default&hide_border=true&count_private=true&hide_rank=true&include_all_commits=true)
 &nbsp;&nbsp;
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OliseNS&layout=compact&theme=default&hide_border=true)
+
+![Contributions](https://github-readme-streak-stats.herokuapp.com?user=OliseNS&theme=default&hide_border=true&mode=weekly&date_format=M%20j%5B%2C%20Y%5D)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=OliseNS&theme=minimal&hide_border=true&area=true)
 
 </div>
 
