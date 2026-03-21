@@ -64,6 +64,12 @@ I'm an AI/ML Engineer who builds and deploys intelligent systems — from fine-t
 
 <div align="center">
 
+<img src="https://komarev.com/ghpvc/?username=OliseNS&label=Profile+Views&color=blue&style=flat-square" />
+&nbsp;
+<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/search/commits?q=author:OliseNS&query=$.total_count&label=Lifetime%20Commits&color=blue&style=flat-square" />
+
+<br/><br/>
+
 <img src="https://github-readme-stats.vercel.app/api?username=OliseNS&show_icons=true&theme=default&hide_border=true&count_private=true&hide_rank=true&include_all_commits=true&line_height=28" height="160"/>
 &nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OliseNS&layout=compact&theme=default&hide_border=true&langs_count=6" height="160"/>
