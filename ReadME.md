@@ -64,13 +64,11 @@ I'm an AI/ML Engineer who builds and deploys intelligent systems — from fine-t
 
 <div align="center">
 
-![Olisemeka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=OliseNS&show_icons=true&theme=default&hide_border=true&count_private=true&hide_rank=true&include_all_commits=true)
-&nbsp;&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OliseNS&layout=compact&theme=default&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=OliseNS&show_icons=true&theme=default&hide_border=true&count_private=true&hide_rank=true&include_all_commits=true&line_height=28" height="160"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OliseNS&layout=compact&theme=default&hide_border=true&langs_count=6" height="160"/>
 
-![Contributions](https://github-readme-streak-stats.herokuapp.com?user=OliseNS&theme=default&hide_border=true&mode=weekly&date_format=M%20j%5B%2C%20Y%5D)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=OliseNS&theme=minimal&hide_border=true&area=true)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=OliseNS&theme=minimal&hide_border=true&area=true&hide_title=false" width="780"/>
 
 </div>
 
