@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://olisens.github.io/assets/dither_it_1.JPG" width="150" height="150" style="border-radius: 50%; object-fit: cover;" alt="Olisemeka Nmarkwe Profile Picture" />
 
   # Olisemeka Nmarkwe
 
