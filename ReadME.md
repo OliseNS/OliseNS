@@ -1,82 +1,55 @@
 <div align="center">
+  <img src="https://olisens.github.io/assets/dither_it_1.JPG" width="150" height="150" style="border-radius: 50%; object-fit: cover;" alt="Olisemeka Nmarkwe Profile Picture" />
 
-# Olisemeka Nmarkwe
+  # [cite_start]Olisemeka Nmarkwe [cite: 1]
 
-**AI/ML Engineer · Edge AI & Machine Learning · Hammond, Louisiana**
+  [cite_start]**AI/ML Engineer · Data Science Student · Hammond, Louisiana** [cite: 7, 8]
 
-[![Portfolio](https://img.shields.io/badge/olisemeka.dev-000000?style=flat-square&logo=safari&logoColor=white)](https://olisemeka.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olisemekanmarkwe-ds/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/OliseNS)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:olisemekanmarkwe@gmail.com)
-
+  [![Portfolio](https://img.shields.io/badge/olisemeka.dev-000000?style=flat-square&logo=safari&logoColor=white)](https://olisemeka.dev)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olisemekanmarkwe-ds/)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/OliseNS)
+  [cite_start][![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:olisemekanmarkwe@gmail.com) [cite: 2]
 </div>
 
 ---
 
-I'm an AI/ML Engineer who builds and deploys intelligent systems — from fine-tuned language models to real-time edge AI. I work at the intersection of research and production: training models, shipping APIs, and running AI on real hardware. Currently engineering with robots, drones, VR systems, and Nvidia Jetsons in Hammond, Louisiana. I also create educational content to make machine learning and computer hardware more accessible.
+[cite_start]I am an AI/ML Engineer currently pursuing a Bachelor of Science in Computer Science with a concentration in Data Science at Southeastern Louisiana University[cite: 6, 7]. [cite_start]I am based in Hammond, LA, and expect to graduate in May 2026[cite: 8]. [cite_start]I specialize in building and deploying intelligent systems, from optimizing custom machine learning workflows for real-time edge processing to engineering production-ready RAG pipelines[cite: 14, 21].
 
 ---
 
-## Projects
+## [cite_start]Experience [cite: 10]
 
-| Project | Description | Status |
+* [cite_start]**Student Engineer** @ **Southeastern Northshore STEM Center** *(Aug 2025 – Present)* [cite: 17, 18, 19]
+    * [cite_start]Lead technical enablement workshops, translating complex hardware architecture and AI concepts for non-technical audiences to drive customer engagement[cite: 20].
+    * [cite_start]Engineered computer vision pipelines for NVIDIA Jetson-powered robots, applying quantization to optimize custom machine learning workflows for real-time edge processing[cite: 21].
+    * [cite_start]Designed and deployed autonomous navigation systems using PyTorch models, benchmarking object detection algorithms to showcase hardware capabilities to stakeholders[cite: 22].
+
+* [cite_start]**AI Intern** @ **Dialysis Care Center** *(May 2025 – Aug 2025)* [cite: 11, 12, 13]
+    * [cite_start]Engineered production-ready RAG pipelines using PyTorch to streamline patient interaction workflows, ensuring strict adherence to healthcare data governance and compliance standards[cite: 14].
+    * [cite_start]Architected a semantic vector search engine (FAISS) with optimization techniques to modernize legacy knowledge retrieval, significantly reducing query resolution time for medical staff[cite: 15].
+    * [cite_start]Collaborated with cross-functional teams to integrate LLM-based autonomous agents, implementing guardrails to eliminate hallucinations in high-stakes clinical environments[cite: 16].
+
+* [cite_start]**Research Assistant** @ **Southeastern Louisiana University** *(Aug 2024 – Dec 2024)* [cite: 23, 24, 25]
+    * [cite_start]Implemented end-to-end data acquisition protocols and preprocessing pipelines for high-fidelity EEG signals, ensuring reproducibility of scientific results[cite: 26].
+    * [cite_start]Trained and evaluated classical ML classifiers (SVM, KNN, Decision Trees) to validate novel biometric identifiers, applying advanced data augmentation to handle sparse biological datasets[cite: 27].
+
+---
+
+## [cite_start]Projects [cite: 28]
+
+| Project | Description | Stack |
 |---|---|---|
-| [**Paokinator**](https://olisemeka.dev/projects/paokinator/) | AI-powered Akinator-style guessing game. Think of anything — it'll figure it out via yes/no questions and ML. Live at [paokinator.olisemeka.dev](https://paokinator.olisemeka.dev) | ✅ Completed |
-| [**PragBase**](https://olisemeka.dev/projects/pragbase/) | Embeddable AI chatbot widget that ingests your knowledge base and delivers structured, intelligent answers — built for businesses | ✅ Completed |
-| [**INFERNO**](https://olisemeka.dev/projects/inferno/) | Real-time fire, smoke & motion detection on edge devices. Trained on 160K labeled images, optimized for Raspberry Pi. No cloud required | ✅ Completed |
-| [**Semantic Search Engine**](https://olisemeka.dev/projects/semantic-search/) | Natural language search engine that surfaces relevant content from unstructured data | ✅ Completed |
-| [**Medical AI Specialization**](https://olisemeka.dev/projects/medical-ai-specialization/) | Sequential fine-tuning pipeline adapting Google's Gemma 2B into a dialysis-care specialist model | ✅ Completed |
-| [**Meal Craft**](https://olisemeka.dev/projects/meal-craft/) | Smart meal recommendation app with tag-based filtering and an AI chef (Chef Steve) | ✅ Completed |
-| [**EEG Clustering & Feature Engineering**](https://olisemeka.dev/projects/eeg-dataminining/) | End-to-end EEG pipeline: preprocessing → statistical feature extraction → unsupervised clustering → visualization | ✅ Completed |
-| [**EEG Neural Network vs. ML Comparison**](https://olisemeka.dev/projects/neuraml/) | Benchmarked ANNs against classical ML models on EEG classification with automated preprocessing and evaluation | ✅ Completed |
+| [cite_start][**Inferno Fire & Smoke**](https://olisemeka.dev/projects/inferno) [cite: 29] | [cite_start]Developed a commercial-grade fire and smoke prevention system by finetuning RF-DETR and YOLO11n architectures on a robust dataset of 160k+ real and augmented images[cite: 31]. [cite_start]Applied post-training quantization to achieve ultra-low latency inference, successfully porting the detection system to run natively on constrained edge devices (Raspberry Pi, iOS)[cite: 32]. | [cite_start]RF-DETR, YOLO11, Edge AI [cite: 29] |
+| [cite_start][**PragBase**](https://pragbase.app) [cite: 34] | [cite_start]Architected a universal RAG assistant using Flask and HTMX that ingests agnostic data sources, converting them into a vector-searchable knowledge base[cite: 36]. [cite_start]Developed a lightweight, JavaScript-based widget enabling users to embed the AI agent into any external website with a single script tag[cite: 37]. | [cite_start]Flask, HTMX, RAG [cite: 34] |
+| [cite_start][**Paokinator**](https://paokinator.olisemeka.dev) [cite: 39] | [cite_start]Engineered a probabilistic guessing game utilizing a FastAPI backend and Supabase PostgreSQL to efficiently query over 260k+ character datapoints[cite: 41]. [cite_start]Implemented a self-correcting fuzzy logic algorithm that dynamically updates decision weights based on real-time user feedback[cite: 43]. | [cite_start]FastAPI, PostgreSQL [cite: 39] |
 
 ---
 
-## Stack
+## Technical Skills
 
-**ML / AI**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-
-**Web & Backend**
-
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Hugo](https://img.shields.io/badge/Hugo-FF4088?style=flat-square&logo=hugo&logoColor=white)
-
-**Tools & Platforms**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=OliseNS&label=Profile+Views&color=blue&style=flat-square" />
-&nbsp;
-<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/search/commits?q=author:OliseNS&query=$.total_count&label=Lifetime%20Commits&color=blue&style=flat-square" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=OliseNS&show_icons=true&theme=default&hide_border=true&count_private=true&hide_rank=true&include_all_commits=true&line_height=28" height="160"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OliseNS&layout=compact&theme=default&hide_border=true&langs_count=6" height="160"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=OliseNS&theme=minimal&hide_border=true&area=true&hide_title=false" width="780"/>
-
-</div>
+* [cite_start]**Languages:** Python, C++, Java, JavaScript, SQL, PHP [cite: 3]
+* [cite_start]**AI/ML & Vision:** PyTorch, TensorFlow, YOLO11, RF-DETR, SAM 3, OpenCV, RAG, LangChain, Quantization [cite: 4]
+* [cite_start]**MLOps & Infrastructure:** Docker, AWS, GCP, FastAPI, Flask, HTMX, PostgreSQL, Railway, Distributed Training, Linux [cite: 4]
 
 ---
 
