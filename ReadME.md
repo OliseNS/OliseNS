@@ -2,7 +2,7 @@
 
   # Olisemeka Nmarkwe
 
-  **AI/ML Engineer · Data Science Student · Hammond, Louisiana**
+  **Software Engineer · AI/ML · Hammond, Louisiana**
 
   [![Portfolio](https://img.shields.io/badge/olisemeka.dev-000000?style=flat-square&logo=safari&logoColor=white)](https://olisemeka.dev)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olisemekanmarkwe-ds/)
@@ -12,35 +12,44 @@
 
 ---
 
-I'm an AI/ML Engineer and Data Science student at Southeastern Louisiana University, expecting to graduate in May 2026. I build and deploy intelligent systems, specializing in computer vision, edge AI optimization (like quantization for NVIDIA Jetsons), and production-ready RAG pipelines.
+I'm a software engineer at Codegig, building full-stack products with React and TypeScript on an ASP.NET Core backend. My work also runs deep in machine learning — classical models, computer vision, and LLMs — from training time-series forecasting models to self-hosting open-weight models on my own GPU stack. 3x hackathon winner, including solo 1st Place at NexusLA DevDays.
 
 ---
 
 ## Experience
 
-* **Student Engineer @ Southeastern Northshore STEM Center** *(Aug 2025 – Present)*
-    * Lead technical enablement workshops, translating complex hardware architecture and AI concepts for non-technical audiences to drive customer engagement.
-    * Engineered computer vision pipelines for NVIDIA Jetson-powered robots, applying quantization to optimize custom machine learning workflows for real-time edge processing.
-    * Designed and deployed autonomous navigation systems using PyTorch models, benchmarking object detection algorithms to showcase hardware capabilities to stakeholders.
+* **Software Engineer @ Codegig** *(Mar 2026 – Present)*
+    * Build and ship product applications end to end — dashboards and monitoring sites — across a React/TypeScript frontend and an ASP.NET Core backend.
+    * Train time-series forecasting models that back emissions compliance dashboards, turning historical regulatory data into live projected metrics.
+    * Built the agent orchestration layer for an AI-powered clinical analysis platform in Python and FastAPI: simultaneous LLM perspectives spawned per query and synthesized over SSE streaming.
+    * Self-hosted an open-weight LLM (gpt-oss-20b) on dual L40S GPUs with vLLM, including the tool-calling infrastructure for real-time inference.
 
 * **AI Intern @ Dialysis Care Center** *(May 2025 – Aug 2025)*
-    * Engineered production-ready RAG pipelines using PyTorch to streamline patient interaction workflows, ensuring strict adherence to healthcare data governance and compliance standards.
-    * Architected a semantic vector search engine (FAISS) with optimization techniques to modernize legacy knowledge retrieval, significantly reducing query resolution time for medical staff.
-    * Collaborated with cross-functional teams to integrate LLM-based autonomous agents, implementing guardrails to eliminate hallucinations in high-stakes clinical environments.
+    * Built a FAISS-backed semantic search engine and the web surface on top of it, modernizing how the organization's knowledge base is queried and cutting query resolution time.
+    * Shipped a RAG pipeline for patient interaction workflows under strict healthcare data governance and compliance standards.
+    * Fine-tuned LLMs for clinical tasks and built the guardrails that keep responses grounded and free of hallucinated guidance.
+
+* **Student Engineer @ Southeastern Northshore STEM Center** *(Aug 2025 – Present)*
+    * Lead technical enablement workshops, translating hardware architecture and AI concepts for non-technical audiences.
+    * Engineered computer vision pipelines for NVIDIA Jetson-powered robots, applying quantization to optimize custom models for real-time edge processing.
+    * Designed and deployed autonomous navigation systems using PyTorch, benchmarking object detection algorithms to showcase hardware capabilities.
 
 * **Research Assistant @ Southeastern Louisiana University** *(Aug 2024 – Dec 2024)*
-    * Implemented end-to-end data acquisition protocols and preprocessing pipelines for high-fidelity EEG signals, ensuring reproducibility of scientific results.
-    * Trained and evaluated classical ML classifiers (SVM, KNN, Decision Trees) to validate novel biometric identifiers, applying advanced data augmentation to handle sparse biological datasets.
+    * Implemented end-to-end data acquisition and preprocessing pipelines for high-fidelity EEG signals, ensuring reproducibility.
+    * Trained and evaluated classical ML classifiers (SVM, KNN, Decision Trees) to validate novel biometric identifiers, applying augmentation to handle sparse biological datasets.
 
 ---
 
-## Projects
+## Selected Work
 
 | Project | Description | Stack |
 |---|---|---|
-| [**Inferno Fire & Smoke**](https://olisemeka.dev/projects/inferno) | Developed a commercial-grade fire and smoke prevention system by finetuning RF-DETR and YOLO11n architectures on a robust dataset of 160k+ real and augmented images. Applied post-training quantization to achieve ultra-low latency inference natively on edge devices. | RF-DETR, YOLO11, Edge AI |
-| [**PragBase**](https://pragbase.app) | Architected a universal RAG assistant using Flask and HTMX that ingests agnostic data sources, converting them into a vector-searchable knowledge base. Developed a lightweight widget to embed the AI agent into external websites. | Flask, HTMX, RAG |
-| [**Paokinator**](https://paokinator.olisemeka.dev) | Engineered a probabilistic guessing game utilizing a FastAPI backend and PostgreSQL to query over 260k+ datapoints. Implemented a self-correcting fuzzy logic algorithm that updates decision weights based on real-time feedback. | FastAPI, PostgreSQL |
+| [**CoCreate**](https://cocreate.sh) | A multiplayer browser workspace for people and their AI companions — join a pod, talk, share a screen, and hand your companion real work while you watch it happen. | React, WebRTC, AI agents |
+| [**Bayou Analytica**](https://olisemeka.dev) | **1st Place (Solo), NexusLA DevDays.** A full-stack ML decision-support platform ingesting thousands of Louisiana education datasets to help policymakers optimize K-12 investments across 64 parishes, with policy simulation and budget optimization. | ML, FastAPI, Next.js |
+| [**NestScope**](https://olisemeka.dev) | Detects birds and nests in aerial and drone imagery using lightweight YOLO-style models. Open-source NestScope Public and NestScope Experts repos, plus a CC BY 4.0 dataset on Hugging Face. | YOLO, PyTorch, Hugging Face |
+| [**Inferno Fire & Smoke**](https://olisemeka.dev/projects/inferno) | Commercial-grade fire and smoke detection by fine-tuning RF-DETR and YOLO11n on 160k+ real and augmented images, with post-training quantization for ultra-low latency edge inference. | RF-DETR, YOLO11, Edge AI |
+| [**PragBase**](https://pragbase.app) | Universal RAG assistant that ingests agnostic data sources into a vector-searchable knowledge base, with an embeddable widget for external sites. | Vue, Flask, Supabase, pgvector |
+| [**Paokinator**](https://paokinator.olisemeka.dev) | Probabilistic guessing game backed by FastAPI and PostgreSQL over 260k+ datapoints, with a self-correcting fuzzy logic algorithm that updates decision weights from real-time feedback. | FastAPI, PostgreSQL |
 
 ---
 
@@ -48,12 +57,16 @@ I'm an AI/ML Engineer and Data Science student at Southeastern Louisiana Univers
 
 **ML / AI**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat-square&logo=chainlink&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![vLLM](https://img.shields.io/badge/vLLM-121212?style=flat-square&logoColor=white)
 
 **Web, Backend & Infrastructure**
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
@@ -70,7 +83,7 @@ I'm an AI/ML Engineer and Data Science student at Southeastern Louisiana Univers
 
 <div align="center">
 
-*Open to internships and collaborative projects in AI/ML.*
+*Open to AI/ML and full-stack engineering roles and collaborations.*
 **[olisemeka.dev](https://olisemeka.dev) · [Download Resume](https://olisemeka.dev/assets/home/Resume.pdf)**
 
 </div>
